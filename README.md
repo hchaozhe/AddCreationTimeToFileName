@@ -8,8 +8,6 @@ This is by no means the most elegent solution, but it works for me.
 To use the exe file open a cmd in Windows go to the folder where the exe is at, type in 
 
 
-s
-
 
 > AddCreationTimeToFileName <directory name>
 
