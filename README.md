@@ -9,7 +9,7 @@ To use the exe file open a cmd in Windows go to the folder where the exe is at, 
 
 
 
-> AddCreationTimeToFileName <directory name>
+> AddCreationTimeToFileName \<directory name\>
 
 If you only type
 
@@ -17,6 +17,6 @@ If you only type
 
 the usage will be shown as well
 
-> Usage: AddCreationTimeToFileName.exe <directory name>
+> Usage: AddCreationTimeToFileName.exe \<directory name\>
 
 Suggestions of any kind are welcomed!
